@@ -85,7 +85,7 @@ author:
   bio              : "Computational biology enthusiast"
   location         : "Varanasi, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lFL7QzcAAAAJ"
   email            : "sagorika.nag.phe19@itbhu.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/sagorikanag03"
+  twitter          : "sagorikanag03"
   vine             :
   weibo            :
   xing             :
