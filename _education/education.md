@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* IDD (B. Tech+M.Tech) in Pharmaceutical Engineering & Technology
+  * Indian Institute of Technology (BHU), Varanasi
+  * CPI: 9.36/10
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
