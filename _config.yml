@@ -190,6 +190,9 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true
