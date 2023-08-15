@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /awards/
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-
-*  IBGAA Graduate Study Application Scholarship (GSAS) for Fall'23 admissions (Accepted)
-  * IIT-BHU Alumni mentorship and grant to cover application costs
-
-* DAAD-WISE Scholarship, Germany, 2023 (Accepted) 
-  * 68-day fully funded internship at TU Munich, School Of Life Sciences
+* Indian Institute of Technology (BHU), Varanasi
+  * IDD (B. Tech+M.Tech) in Pharmaceutical Engineering & Technology
+  * CPI: 9.36/10
     
-* Mitacs Globalink Research Internship, Canada, 2023 (Declined) 
-  * 12-week fully funded opportunity at Université Laval
+* Shanti Asiatic School, Ahmedabad
+  * All India Senior Secondary Certificate Examination
+  * Percentage: 93%
     
-*  IBGAA Graduate Study Application Scholarship (GSAS) for Fall'23 admissions (Accepted)
-  * IIT-BHU Alumni mentorship and grant to cover application costs
+* Shee Swaminarayan Gurukul, Vapi
+  * All India Secondary School Examination
+  * CGPA: 9.8/10
+
