@@ -1,8 +1,23 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: experience
+layout: archive
+title: ""
+permalink: /experience/
+author_profile: true
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+{% include base_path %}
+
+Education
+======
+* Indian Institute of Technology (BHU), Varanasi
+  * IDD (B. Tech+M.Tech) in Pharmaceutical Engineering & Technology
+  * CPI: 9.36/10
+    
+* Shanti Asiatic School, Ahmedabad
+  * All India Senior Secondary Certificate Examination
+  * Percentage: 93%
+    
+* Shee Swaminarayan Gurukul, Vapi
+  * All India Secondary School Examination
+  * CGPA: 9.8/10
 
