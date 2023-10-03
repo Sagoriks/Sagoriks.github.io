@@ -25,7 +25,7 @@ I love travelling! This summer while interning in Germany, I had the opportunity
 <p float="left">
 <img src="https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/3f5942f8-ae75-4072-8d0e-3e0531a6ab76" height="250" width="250">
 <img src="https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/7924331d-4935-4852-ae7d-621007c3623e" height="250" width="250">
-<img src="https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/2b5cdb44-c8ca-454b-858a-bdc02904d9e5"height="250" width="250">
+<img src="https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/2b5cdb44-c8ca-454b-858a-bdc02904d9e5" height="250" width="250">
 </p>
 
 
