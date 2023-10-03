@@ -1,3 +1,14 @@
+---
+layout: archive
+title: ""
+permalink: /travel/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+I love travelling! This summer while interning in Germany, I had the opportunity to visit various cities accross Europe. Here are a few pictures:
 
 ![WhatsApp Image 2023-10-03 at 1 55 45 PM](https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/a6c5227c-a6c7-49f8-b970-598963dcbd0b)
 ![WhatsApp Image 2023-10-03 at 1 55 47 PM](https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/f7144266-21d4-4474-9b8a-0e5266d0f7ee)
