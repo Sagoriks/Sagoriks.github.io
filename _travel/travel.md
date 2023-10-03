@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Travel
+======
 I love travelling! This summer while interning in Germany, I had the opportunity to visit various cities accross Europe. Here are a few pictures:
 
 ![WhatsApp Image 2023-10-03 at 1 55 45 PM](https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/a6c5227c-a6c7-49f8-b970-598963dcbd0b)
