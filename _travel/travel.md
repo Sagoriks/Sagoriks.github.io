@@ -13,7 +13,7 @@ Travel
 ======
 I love travelling! This summer while interning in Germany, I had the opportunity to visit various cities accross Europe. Here are a few pictures:
 
-![WhatsApp Image 2023-10-03 at 1 55 45 PM]("https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/a6c5227c-a6c7-49f8-b970-598963dcbd0b" =250x250)
+<img src="https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/a6c5227c-a6c7-49f8-b970-598963dcbd0b" width="150" height="280">
 ![WhatsApp Image 2023-10-03 at 1 55 47 PM](https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/f7144266-21d4-4474-9b8a-0e5266d0f7ee)
 ![WhatsApp Image 2023-10-03 at 1 55 48 PM](https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/b3198946-afa8-4807-8623-f21949954b15)
 ![WhatsApp Image 2023-10-03 at 1 55 49 PM](https://github.com/Sagoriks/Sagoriks.github.io/assets/79020063/f94984b8-b732-455a-b5b5-066a0686e9e6)
